@@ -1,8 +1,8 @@
-﻿internal class Program
+﻿internal class Seasons
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Введіть номер місяця:");
+        Console.WriteLine("Enter the month number:");
         int month = Convert.ToInt32(Console.ReadLine());
 
         string season;
