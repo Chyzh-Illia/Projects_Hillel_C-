@@ -3,11 +3,10 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("Введіть номер місяця:");
-        int month = Convert.ToInt32(Console.ReadLine()); // Зчитуємо номер місяця з консолі
+        int month = Convert.ToInt32(Console.ReadLine());
 
-        string season; // Змінна для зберігання назви сезону
+        string season;
 
-        // Визначення сезону за номером місяця
         switch (month)
         {
             case 1:
