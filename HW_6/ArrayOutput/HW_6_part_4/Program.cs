@@ -1,4 +1,4 @@
-﻿public class Program
+﻿public class ArrayOutput
 {
     public static void Main(string[] args)
     {
