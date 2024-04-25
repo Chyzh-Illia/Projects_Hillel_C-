@@ -1,6 +1,6 @@
-﻿internal class EnteringGrades
+﻿public class EnteringGrades
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         int numOfSubjects = 3;
  
